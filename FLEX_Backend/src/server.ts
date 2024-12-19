@@ -3,7 +3,7 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import connectDB from './config/database';
-import authRoutes from './routes/auth.routes';
+import authRoutes from './routes/Auth.route';
 import errorMiddleware from './middlewares/error.middleware';
 
 // Load environment variables
