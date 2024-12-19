@@ -1,4 +1,3 @@
-// src/services/Auth.service.ts
 import { UserRepository } from '../repositories/User.repository';
 import { IUser } from '../models/User.model';
 

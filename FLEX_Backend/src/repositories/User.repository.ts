@@ -1,4 +1,3 @@
-// src/repositories/User.repository.ts
 import { UserModel, IUser } from '../models/User.model';
 import bcrypt from 'bcryptjs';
 
